@@ -1,3 +1,3 @@
 # hello-world
-just a repositary
+just a repository <br/>
 I am just a beginner.
